@@ -1,0 +1,6 @@
+{
+  "name": "Kurip — Markdown Vault & Google Drive Sync",
+  "description": "An Obsidian-inspired local-first Markdown knowledge base with wikilinks, interactive knowledge graph, and real-time Google Drive synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
